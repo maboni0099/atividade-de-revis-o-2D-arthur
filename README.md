@@ -1,2 +1,1 @@
-# atividade-de-revisã
-o-2D-arthur
+# atividade-de-revisão-2D-arthur
